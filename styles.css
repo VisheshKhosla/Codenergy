@@ -1,0 +1,19 @@
+p{
+	font-size:25px;
+}
+img{
+	float:left;
+	width:200px;
+	height:auto;
+}
+.img-al{
+	margin-right:2em;
+}
+.abt{
+	text-align:justify;
+	/*text-indent:2em;*/
+}
+.buffer{
+	height:50px;
+	width:auto;
+}
